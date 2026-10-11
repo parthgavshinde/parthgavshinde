@@ -42,9 +42,14 @@ and solving challenging programming problems.
 ## 🚀 Featured Projects
 
 ### 🧠 ASTRA AI — Multi-Agent AI Research Platform
-An AI research platform designed to automate research workflows
-using specialized agents for planning, retrieval, verification,
+
+An AI-powered research platform designed to automate
+research planning, information retrieval, verification,
 summarization, and report generation.
+
+**Tech Stack:** Python, FastAPI, RAG, FAISS, LangGraph, PostgreSQL
+
+[View Project](YOUR_AST​RA_REPOSITORY_URL)
 
 **Tech:** Python, FastAPI, RAG, FAISS, LangGraph, PostgreSQL
 
