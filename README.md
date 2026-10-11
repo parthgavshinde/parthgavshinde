@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi, I'm Parth Gavshinde 👋
 
-<!--
-**parthgavshinde/parthgavshinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML & Backend Developer | CSE-AIML Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in Artificial Intelligence
+and Machine Learning, passionate about building AI-powered applications
+and solving challenging programming problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE-AIML student at AITR, Indore
+- 🤖 Interested in Artificial Intelligence, Machine Learning & Agentic AI
+- 💻 Practicing Data Structures and Algorithms using C++
+- 🚀 Building AI applications using Python and FastAPI
+- 📚 Currently improving my problem-solving and backend development skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C++
+- Python
+- Java
+
+**AI / Machine Learning**
+- NumPy, Pandas, Scikit-learn
+- TensorFlow, Keras
+- NLP, Machine Learning, Deep Learning
+
+**Backend & AI Engineering**
+- FastAPI, REST APIs
+- LangChain, LangGraph
+- Retrieval-Augmented Generation (RAG)
+- FAISS, Vector Embeddings
+
+**Databases & Tools**
+- PostgreSQL, MongoDB
+- Git, GitHub
+- Streamlit, VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 ASTRA AI — Multi-Agent AI Research Platform
+An AI research platform designed to automate research workflows
+using specialized agents for planning, retrieval, verification,
+summarization, and report generation.
+
+**Tech:** Python, FastAPI, RAG, FAISS, LangGraph, PostgreSQL
+
+### 📚 StudyBuddy — AI Learning Assistant
+An AI-powered learning assistant designed to help students
+understand study materials and interact with educational content.
+
+**Tech:** Python, NLP, LLMs, Backend Development
+
+### 🎬 CineSage AI
+An AI-powered movie information application built using
+LLMs and structured output generation.
+
+**Tech:** Python, Streamlit, LangChain, Mistral AI, Pydantic
+
+### 🎥 Movie Recommendation System
+A content-based movie recommendation system using text
+features and similarity scores to recommend movies.
+
+**Tech:** Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity
+
+---
+
+## 💻 Data Structures & Algorithms
+
+I regularly practice DSA to strengthen my problem-solving
+skills and prepare for technical interviews.
+
+- Arrays and Strings
+- Hashing
+- Two Pointers and Sliding Window
+- Binary Search
+- Linked Lists
+- Trees and Graphs
+- Recursion and Dynamic Programming
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen DSA and problem-solving skills
+- Build practical AI/ML projects
+- Improve backend engineering fundamentals
+- Prepare for software engineering and AI/ML opportunities
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [parthgavshinde](https://github.com/parthgavshinde)
+- **LinkedIn:** Add your LinkedIn profile URL here
+- **LeetCode:** Add your LeetCode profile URL here
+
+---
+
+⭐ Thanks for visiting my profile!
