@@ -2,6 +2,10 @@
 
 ### AI/ML & Backend Developer | CSE-AIML Student
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Gavshinde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-gavshinde)
+[![LeetCode](https://img.shields.io/badge/LeetCode-parthgavshinde-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/parthgavshinde/)
+[![GitHub](https://img.shields.io/badge/GitHub-parthgavshinde-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parthgavshinde)
+
 I build AI-powered applications, backend APIs, and practical machine learning projects. I am currently focused on strengthening DSA, improving backend engineering fundamentals, and building placement-ready AI/ML projects.
 
 ---
@@ -12,6 +16,7 @@ I build AI-powered applications, backend APIs, and practical machine learning pr
 - Interested in Artificial Intelligence, Machine Learning, Agentic AI, and RAG systems
 - Practicing Data Structures and Algorithms using C++
 - Building AI applications using Python, FastAPI, LangChain, and vector search
+- Currently improving StudyBuddy, an AI study assistant for PDF-based learning
 - Preparing for software engineering and AI/ML opportunities
 
 ---
@@ -103,9 +108,10 @@ I regularly practice DSA to strengthen my problem-solving skills and prepare for
 
 ## GitHub Stats
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthgavshinde&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthgavshinde&layout=compact&theme=tokyonight&hide_border=true)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parthgavshinde&show_icons=true&theme=tokyonight&hide_border=true" alt="Parth's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgavshinde&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
