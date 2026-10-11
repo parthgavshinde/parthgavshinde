@@ -106,15 +106,6 @@ I regularly practice DSA to strengthen my problem-solving skills and prepare for
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parthgavshinde&show_icons=true&theme=tokyonight&hide_border=true" alt="Parth's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgavshinde&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-parthgavshinde-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/parthgavshinde/)
