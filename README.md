@@ -40,6 +40,13 @@ and solving challenging programming problems.
 ---
 
 ## 🚀 Featured Projects
+### 📚 StudyBuddy — AI Learning Assistant
+An AI-powered learning assistant designed to help students
+understand study materials and interact with educational content.
+
+**Tech:** Python, NLP, LLMs, Backend Development
+
+[View Project](https://github.com/parthgavshinde/StudyBuddy)
 
 ### 🧠 ASTRA AI — Multi-Agent AI Research Platform
 
@@ -49,15 +56,7 @@ summarization, and report generation.
 
 **Tech Stack:** Python, FastAPI, RAG, FAISS, LangGraph, PostgreSQL
 
-[View Project](YOUR_AST​RA_REPOSITORY_URL)
-
-**Tech:** Python, FastAPI, RAG, FAISS, LangGraph, PostgreSQL
-
-### 📚 StudyBuddy — AI Learning Assistant
-An AI-powered learning assistant designed to help students
-understand study materials and interact with educational content.
-
-**Tech:** Python, NLP, LLMs, Backend Development
+[View Project](https://github.com/Vishakha0534/Astra-Multi-Agent-AI-Research-Platform)
 
 ### 🎬 CineSage AI
 An AI-powered movie information application built using
@@ -65,13 +64,15 @@ LLMs and structured output generation.
 
 **Tech:** Python, Streamlit, LangChain, Mistral AI, Pydantic
 
+[View Project](https://github.com/parthgavshinde/CineSage-AI)
+
 ### 🎥 Movie Recommendation System
 A content-based movie recommendation system using text
 features and similarity scores to recommend movies.
 
 **Tech:** Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity
 
----
+[View Project](APNA_MOVIE_RECOMMENDATION_REPOSITORY_URL)
 
 ## 💻 Data Structures & Algorithms
 
@@ -100,8 +101,8 @@ skills and prepare for technical interviews.
 ## 🤝 Connect With Me
 
 - **GitHub:** [parthgavshinde](https://github.com/parthgavshinde)
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **LeetCode:** Add your LeetCode profile URL here
+- **LinkedIn:** [parthgavshinde](www.linkedin.com/in/parth-gavshinde)
+- **LeetCode:** [parthgavshinde](https://leetcode.com/u/parthgavshinde/)
 
 ---
 
