@@ -72,7 +72,7 @@ features and similarity scores to recommend movies.
 
 **Tech:** Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity
 
-[View Project](APNA_MOVIE_RECOMMENDATION_REPOSITORY_URL)
+[View Project](https://github.com/parthgavshinde/MOVIE-RECOMMENDED-SYSTEM-)
 
 ## 💻 Data Structures & Algorithms
 
