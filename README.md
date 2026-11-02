@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Gavshinde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-gavshinde)
 [![LeetCode](https://img.shields.io/badge/LeetCode-parthgavshinde-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/parthgavshinde/)
 [![GitHub](https://img.shields.io/badge/GitHub-parthgavshinde-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parthgavshinde)
+[![Email](https://img.shields.io/badge/Email-parthgavshinde24@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parthgavshinde24@gmail.com)
 
 I build AI-powered applications, backend APIs, and practical machine learning projects. I am currently focused on strengthening DSA, improving backend engineering fundamentals, and building placement-ready AI/ML projects.
 
